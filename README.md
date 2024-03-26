@@ -1,4 +1,6 @@
 # recursion_project
+The Odin Project lesson: https://www.theodinproject.com/lessons/ruby-recursion
+
 implementation of the fibbonacci sequence and Merge Sort
 
 
